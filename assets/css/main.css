@@ -1587,12 +1587,14 @@
 				left: 2.1875em;
 				margin: 0;
 				position: absolute;
+
+				text-shadow: 1px 1px #000000;
 				z-index: 1;
 			}
 
 			#main .thumb > p {
 				display: none;
-				text-shadow: 1px 1px;
+				text-shadow: 1px 1px #000000;
 
 			}
 
